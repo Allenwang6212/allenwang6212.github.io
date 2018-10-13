@@ -7,59 +7,55 @@
   ],
   "name": ["Allen Wang"],
   "id": "@alllenwang6212",
-  "photo": "https://i.imgur.com/ufhMP9v.jpg",
+  "photo": "https://i.imgur.com/iMvK7ke.jpg",
   "about": [
-    ["左手編程、右手設計，我喜歡運用資訊技術解決生活大小事、透過設計充實生活。", "我擅長 Web 開發，目前擁有三年的前端開發經驗、兩年的全端開發經驗、團體合作開發經驗三年，另有一年的網頁教學經驗。", "現職於李梅樹紀念館資訊組、蘋果仁科技媒體。"]
+    ["現任李梅樹紀念館資訊組召集人、大安高工電腦研究社客座老師、中崙高中資訊研習社指導老師。", "在李梅樹紀念館館內負責專案接洽、行政作業程序處理、館內硬體設備規劃與採購。"]
   ],
   "contacts": [{
-    "link": "https://github.com/Aries0d0f",
+    "link": "https://github.com/Allenwang6212",
     "icon": ["fab", "github"]
   }, {
-    "link": "mailto:aries0d0f@gmail.com",
+    "link": "mailto:alllenwang6212@gmail.com",
     "icon": ["fas", "envelope"]
   }, {
-    "link": "tel:+886966657716",
+    "link": "tel:+886935609008",
     "icon": ["fas", "phone"]
   }, {
-    "link": "https://fb.com/aries0d0f",
+    "link": "https://fb.com/allen.wang.1675",
     "icon": ["fab", "facebook-f"]
   }, {
-    "link": "https://linkedin.com/in/aries-cs-55677a145/",
-    "id": "aries-cs-55677a145",
-    "icon": ["fab", "linkedin-in"]
-  }, {
-    "link": "https://t.me/Aries0d0f",
+    "link": "https://t.me/allenwang6212",
     "icon": ["fab", "telegram-plane"]
   }],
   "skillCollection": [{
-    "name": "Front-end",
-    "skill": ["HTML & CSS", "SCSS", "JavaScript", "RWD"]
+    "name": "硬體",
+    "skill": ["故障排除", "採購諮詢", "架構規劃", "教學"]
   }, {
-    "name": "Back-end",
-    "skill": ["Node.js", "RESTful WebService", "MariaDB", "MongoDB"]
-  }, {
-    "name": "Framework",
-    "skill": ["Vue.js", "Koa.js", "express.js"]
+    "name": "行政",
+    "skill": ["組織與企劃能力", "領導能力"]
   }, {
     "name": "Others",
-    "skill": ["UI/UX Design", "Linux SA", "Google Analytics"]
+    "skill": ["挖坑獸", "填坑獸", "Google Analytics"]
   }],
   "experience": [
     [{
-      "title": "李梅樹紀念館資訊組研發長",
+      "title": "李梅樹紀念館資訊組召集人",
       "date": "現任"
     }, {
-      "title": "蘋果仁 Applealmond 編輯",
-      "date": "現任"
-    }, {
-      "title": "#UnaHack1 黑客松 Azure Power Bi 獎",
-      "date": "2017/02"
+      "title": "OCF 開放文化基金會行政助理",
+      "date": "2017/09-2018/01"
     }, {
       "title": "李梅樹紀念館暑期志工資訊能力訓練課程講師",
       "date": "2017/07"
     }, {
-      "title": "中崙高中資研社網頁前端課程專任講師",
+      "title": "Taiwan Hackathon 5th 黑客松 第二名",
+      "date": "2015/02"
+    }, {
+      "title": "中崙高中資研社社團講師",
       "date": "2017/10"
+    }, {
+      "title": "大安高工資研社社團講師",
+      "date": "2017/09"
     }]
   ]
 }
